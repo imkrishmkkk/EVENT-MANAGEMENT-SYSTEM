@@ -69,8 +69,8 @@ A full-stack event management system that allows users to create, manage, and br
 
 http://localhost:5173
 
-#Contributing
+# Contributing
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. For major changes, please open an issue first to discuss what you'd like to change.
 
-#License
+# License
 This project is licensed under the MIT License.
